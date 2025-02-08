@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js app for AWS Elastic Beanstalk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
+
